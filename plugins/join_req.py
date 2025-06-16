@@ -1,4 +1,4 @@
-#Join Telegram Channel - @Deendayal_dhakad
+#Join Telegram Channel - @VOLT_MAIN
 
 from pyrogram import Client, filters, enums
 from pyrogram.types import ChatJoinRequest

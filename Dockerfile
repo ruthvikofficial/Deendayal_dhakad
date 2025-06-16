@@ -22,7 +22,7 @@ CMD ["python3", "bot.py"]
 # cd Deendayal_botz
 # python3 -m venv venv
 # source venv/bin/activate
-# git clone https://github.com/Deendayal403/Deendayal_dhakad.git
+# git clone 
 # cd Deendayal_dhakad
 # pip install -r requirements.txt
 # python3 bot.py
